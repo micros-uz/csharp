@@ -1,0 +1,10 @@
+Не увлекайтесь интерфейсами!
+
+http://www.codemanship.co.uk/parlezuml/blog/?postid=934
+http://blog.ploeh.dk/2010/12/02/Interfacesarenotabstractions/
+
+Хорошие абстракции
+http://blog.ploeh.dk/2010/12/03/Towardsbetterabstractions/
+
+SOLID
+http://blog.ploeh.dk/2011/06/07/SOLIDCodeisnt/
