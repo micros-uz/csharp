@@ -1,0 +1,7 @@
+﻿
+namespace XXX
+{
+    class xxx
+    {
+    }
+}

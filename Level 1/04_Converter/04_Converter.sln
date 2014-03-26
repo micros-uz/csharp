@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Converter", "04_Converter\04_Converter.csproj", "{E1E5A70F-EE7F-4E85-B2A1-CFE6362E19FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterTest", "ConverterTest\ConverterTest.csproj", "{362E4BEA-531F-4C14-9364-72E06C7E6C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E5A70F-EE7F-4E85-B2A1-CFE6362E19FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E5A70F-EE7F-4E85-B2A1-CFE6362E19FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E5A70F-EE7F-4E85-B2A1-CFE6362E19FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E5A70F-EE7F-4E85-B2A1-CFE6362E19FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362E4BEA-531F-4C14-9364-72E06C7E6C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362E4BEA-531F-4C14-9364-72E06C7E6C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362E4BEA-531F-4C14-9364-72E06C7E6C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362E4BEA-531F-4C14-9364-72E06C7E6C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
