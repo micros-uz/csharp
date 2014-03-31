@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _07_Avionika.Devices
+{
+    internal sealed class Sensor : BaseDevice
+    {
+        public Sensor()
+            :base(0)
+        {
+
+        }
+    }
+}
