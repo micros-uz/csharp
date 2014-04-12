@@ -1,0 +1,249 @@
+00000000	0.00000000	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Controllers.LogController, Method = Init 	
+00000001	0.00041868	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Controllers.LogController, Method = Init 	
+00000002	0.00116336	[6880] [INFO] EventBroker - EventBroker: subscribed MainStart 	
+00000003	0.00120079	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationManager, Method = ReloadPickLocations 	
+00000004	0.00122705	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationManager, Method = ReloadPickLocations 	
+00000005	0.00125150	[6880] [INFO] EventBroker - EventBroker: subscribed PlantLoaded 	
+00000006	0.00126810	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationManager, Method = Orygin.BusinessLogic.Managers.PickLocation.IPickLocationDataManager.Init 	
+00000007	0.00129195	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationManager, Method = Orygin.BusinessLogic.Managers.PickLocation.IPickLocationDataManager.Init 	
+00000008	0.00163305	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationColorManager, Method = Init 	
+00000009	0.00167531	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.PickLocation.PickLocationColorManager, Method = Init 	
+00000010	0.00182231	[6880] [INFO] EventBroker - Enqueued: EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.MeasurementManager, Method = SetSizes 	
+00000011	0.00185099	[6880] [INFO] EventBroker - EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.MeasurementManager, Method = SetSizes 	
+00000012	0.00185854	[6880] [INFO] EventBroker - EventBroker: subscribed MainPreStart 	
+00000013	0.00190774	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.MeasurementManager, Method = UpdateDpi 	
+00000014	0.00197083	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.MeasurementManager, Method = UpdateDpi 	
+00000015	0.00368206	[6880] [INFO] EventBroker - Enqueued: EventId = MainInit, Type = Orygin.BusinessLogic.Managers.RepositoryEventsManager, Method = Init 	
+00000016	0.00369202	[6880] [INFO] EventBroker - EventId = MainInit, Type = Orygin.BusinessLogic.Managers.RepositoryEventsManager, Method = Init 	
+00000017	0.00373337	[6880] [INFO] EventBroker - EventBroker: subscribed MainInit 	
+00000018	0.00495952	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Controllers.MainController, Method = UpdateByPlantModeChanged 	
+00000019	0.00496827	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Controllers.MainController, Method = UpdateByPlantModeChanged 	
+00000020	0.00500359	[6880] [INFO] EventBroker - EventBroker: subscribed PlantModeChanged 	
+00000021	0.00529549	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.CoreColorsManager, Method = Init 	
+00000022	0.00532959	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.CoreColorsManager, Method = Init 	
+00000023	0.00545155	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.CoreColorsManager, Method = Init 	
+00000024	0.00546030	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.CoreColorsManager, Method = Init 	
+00000025	0.00641507	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000026	0.00642353	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000027	0.00646337	[6880] [INFO] EventBroker - Enqueued: EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000028	0.00647213	[6880] [INFO] EventBroker - EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000029	0.00650865	[6880] [INFO] EventBroker - EventBroker: subscribed GridLinesChanged 	
+00000030	0.00730133	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000031	0.00730978	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000032	0.00734510	[6880] [INFO] EventBroker - Enqueued: EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000033	0.00735385	[6880] [INFO] EventBroker - EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000034	0.00813717	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000035	0.00814562	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = EndLoaded 	
+00000036	0.00818004	[6880] [INFO] EventBroker - Enqueued: EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000037	0.00818849	[6880] [INFO] EventBroker - EventId = GridLinesChanged, Type = Orygin.BusinessLogic.Controllers.PlantController, Method = GridLinesChanged 	
+00000038	0.00941192	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.HistoryManagerAssistant, Method = Init 	
+00000039	0.00942037	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.HistoryManagerAssistant, Method = Init 	
+00000040	0.01412844	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Controllers.AlertsManagerController, Method = Start 	
+00000041	0.01414927	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Controllers.AlertsManagerController, Method = Start 	
+00000042	0.01556105	[6880] [INFO] EventBroker - Enqueued: EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = Init 	
+00000043	0.01556951	[6880] [INFO] EventBroker - EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = Init 	
+00000044	0.01560361	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = RefreshItems 	
+00000045	0.01561176	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = RefreshItems 	
+00000046	0.01635735	[6880] [INFO] EventBroker - Enqueued: EventId = CurrentWarehouseChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnCurrentWarehouseChanged 	
+00000047	0.01636611	[6880] [INFO] EventBroker - EventId = CurrentWarehouseChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnCurrentWarehouseChanged 	
+00000048	0.01640022	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnPlantLoaded 	
+00000049	0.01640897	[6880] [INFO] EventBroker - EventBroker: subscribed CurrentWarehouseChanged 	
+00000050	0.01644278	[6880] [INFO] EventBroker - Enqueued: EventId = WarehouseSizeChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnWarehouseSizeChanged 	
+00000051	0.01645485	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnPlantLoaded 	
+00000052	0.01649410	[6880] [INFO] EventBroker - EventId = WarehouseSizeChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = OnWarehouseSizeChanged 	
+00000053	0.01650255	[6880] [INFO] EventBroker - EventBroker: subscribed WarehouseSizeChanged 	
+00000054	0.01653968	[6880] [INFO] EventBroker - EventId = ConfigChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = UpdateScaleIndicatorView 	
+00000055	0.01654813	[6880] [INFO] EventBroker - EventBroker: subscribed ConfigChanged 	
+00000056	0.01668155	[6880] [INFO] EventBroker - Enqueued: EventId = ConfigChanged, Type = Orygin.BusinessLogic.Controllers.ZoomController, Method = UpdateScaleIndicatorView 	
+00000057	0.01734503	[6880] [INFO] EventBroker - Enqueued: EventId = ShowBalloon, Type = Orygin.BusinessLogic.Controllers.BalloonController, Method = Orygin.BusinessLogic.Interfaces.Controllers.IBalloonController.Show 	
+00000058	0.01735409	[6880] [INFO] EventBroker - EventId = ShowBalloon, Type = Orygin.BusinessLogic.Controllers.BalloonController, Method = Orygin.BusinessLogic.Interfaces.Controllers.IBalloonController.Show 	
+00000059	0.01738880	[6880] [INFO] EventBroker - EventBroker: subscribed ShowBalloon 	
+00000060	0.01753218	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.ApplicationTitleManager, Method = RefreshAppTitleInternal 	
+00000061	0.01754094	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.ApplicationTitleManager, Method = RefreshAppTitleInternal 	
+00000062	0.01791675	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.InventoryOperations.OperationNotifyManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IOperationNotifyManager.Start 	
+00000063	0.01792611	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.InventoryOperations.OperationNotifyManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IOperationNotifyManager.Start 	
+00000064	0.02088220	[6880] [INFO] EventBroker - Enqueued: EventId = Cleanup, Type = Orygin.BusinessLogic.Plugins.PluginManager, Method = Orygin.BusinessLogic.Plugins.IPluginManagerInternal.Unload 	
+00000065	0.02089246	[6880] [INFO] EventBroker - EventId = Cleanup, Type = Orygin.BusinessLogic.Plugins.PluginManager, Method = Orygin.BusinessLogic.Plugins.IPluginManagerInternal.Unload 	
+00000066	0.02092989	[6880] [INFO] EventBroker - EventBroker: subscribed Cleanup 	
+00000067	0.02111493	[6880] [INFO] EventBroker - Enqueued: EventId = Cleanup, Type = Orygin.BusinessLogic.Plugins.PluginManager, Method = Orygin.BusinessLogic.Plugins.IPluginManagerInternal.Unload 	
+00000068	0.02112429	[6880] [INFO] EventBroker - EventId = Cleanup, Type = Orygin.BusinessLogic.Plugins.PluginManager, Method = Orygin.BusinessLogic.Plugins.IPluginManagerInternal.Unload 	
+00000069	0.02130781	[6880] [INFO] EventBroker - Enqueued: EventId = ConfigChanged, Type = Orygin.BusinessLogic.Plugins.PluginHost, Method = Orygin.BusinessLogic.Plugins.IPluginHost.OnAppSettingsChanged 	
+00000070	0.02131687	[6880] [INFO] EventBroker - EventId = ConfigChanged, Type = Orygin.BusinessLogic.Plugins.PluginHost, Method = Orygin.BusinessLogic.Plugins.IPluginHost.OnAppSettingsChanged 	
+00000071	0.02256566	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Commands.PlantCommands, Method = OnPlantModeChanged 	
+00000072	0.02257471	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Commands.PlantCommands, Method = OnPlantModeChanged 	
+00000073	0.02277937	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Commands.InventoryCommands, Method = OnPlantModeChanged 	
+00000074	0.02278873	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Commands.InventoryCommands, Method = OnPlantModeChanged 	
+00000075	0.02331879	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Menu.MainMenuBuilder, Method = Init 	
+00000076	0.02332754	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Menu.MainMenuBuilder, Method = Init 	
+00000077	0.02347938	[6880] [INFO] EventBroker - Enqueued: EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.RecentFilesManager, Method = Init 	
+00000078	0.02348843	[6880] [INFO] EventBroker - EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.RecentFilesManager, Method = Init 	
+00000079	0.02371966	[6880] [INFO] EventBroker - Enqueued: EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.RecentFilesManager, Method = Init 	
+00000080	0.02372841	[6880] [INFO] EventBroker - EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.RecentFilesManager, Method = Init 	
+00000081	0.02397382	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.ExternalToolsManager, Method = Load 	
+00000082	0.02398288	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.ExternalToolsManager, Method = Load 	
+00000083	0.02441453	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.ChangePlantModeMenuPresenter, Method = OnPlantModeChanged 	
+00000084	0.02442329	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.ChangePlantModeMenuPresenter, Method = OnPlantModeChanged 	
+00000085	0.02483925	[6880] [INFO] EventBroker - Enqueued: EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = Init 	
+00000086	0.02484800	[6880] [INFO] EventBroker - EventId = MainPreStart, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = Init 	
+00000087	0.02487849	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = RefreshItems 	
+00000088	0.02490656	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.EmbeddedWindowManager, Method = RefreshItems 	
+00000089	0.02550092	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.Communication.GlobalMessageManager, Method = Start 	
+00000090	0.02550967	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.Communication.GlobalMessageManager, Method = Start 	
+00000091	0.02554378	[6880] [INFO] EventBroker - Enqueued: EventId = Cleanup, Type = Orygin.Communication.GlobalMessageManager, Method = Stop 	
+00000092	0.02555193	[6880] [INFO] EventBroker - EventId = Cleanup, Type = Orygin.Communication.GlobalMessageManager, Method = Stop 	
+00000093	0.02576202	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.Communication.GlobalMessageManager, Method = Start 	
+00000094	0.02577078	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.Communication.GlobalMessageManager, Method = Start 	
+00000095	0.02580459	[6880] [INFO] EventBroker - Enqueued: EventId = Cleanup, Type = Orygin.Communication.GlobalMessageManager, Method = Stop 	
+00000096	0.02583538	[6880] [INFO] EventBroker - EventId = Cleanup, Type = Orygin.Communication.GlobalMessageManager, Method = Stop 	
+00000097	0.02597664	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Start 	
+00000098	0.02598540	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Start 	
+00000099	0.02601589	[6880] [INFO] EventBroker - Enqueued: EventId = Terminate, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Stop 	
+00000100	0.02602464	[6880] [INFO] EventBroker - EventId = Terminate, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Stop 	
+00000101	0.02605905	[6880] [INFO] EventBroker - EventBroker: subscribed Terminate 	
+00000102	0.02615293	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Start 	
+00000103	0.02617557	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Start 	
+00000104	0.02619187	[6880] [INFO] EventBroker - Enqueued: EventId = Terminate, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Stop 	
+00000105	0.02620455	[6880] [INFO] EventBroker - EventId = Terminate, Type = Orygin.BusinessLogic.Managers.OperationArbiter, Method = Stop 	
+00000106	0.02634672	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationEventsManager, Method = Orygin.BusinessLogic.InternalInterfaces.IOperationEventsManagerInternal.Start 	
+00000107	0.02636936	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationEventsManager, Method = Orygin.BusinessLogic.InternalInterfaces.IOperationEventsManagerInternal.Start 	
+00000108	0.02649161	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationEventsManager, Method = Orygin.BusinessLogic.InternalInterfaces.IOperationEventsManagerInternal.Start 	
+00000109	0.02651576	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.OperationEventsManager, Method = Orygin.BusinessLogic.InternalInterfaces.IOperationEventsManagerInternal.Start 	
+00000110	0.02803561	[6880] [INFO] EventBroker - Enqueued: EventId = Terminate, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.CloseSession 	
+00000111	0.02805584	[6880] [INFO] EventBroker - EventId = Terminate, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.CloseSession 	
+00000112	0.02807455	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.OpenSession 	
+00000113	0.02810051	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.OpenSession 	
+00000114	0.02821130	[6880] [INFO] EventBroker - Enqueued: EventId = Terminate, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.CloseSession 	
+00000115	0.02823454	[6880] [INFO] EventBroker - EventId = Terminate, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.CloseSession 	
+00000116	0.02825023	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.OpenSession 	
+00000117	0.02827438	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.SessionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISessionManager.OpenSession 	
+00000118	0.02841837	[6880] [INFO] EventBroker - Enqueued: EventId = MainInit, Type = Orygin.BusinessLogic.Managers.FileAssociationsManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IFileAssociationsManager.CheckFileAssociations 	
+00000119	0.02844161	[6880] [INFO] EventBroker - EventId = MainInit, Type = Orygin.BusinessLogic.Managers.FileAssociationsManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IFileAssociationsManager.CheckFileAssociations 	
+00000120	0.02853157	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.TerminationManager, Method = PlantLoadedHandler 	
+00000121	0.02855451	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.TerminationManager, Method = PlantLoadedHandler 	
+00000122	0.02870544	[6880] [INFO] EventBroker - Enqueued: EventId = ArbiterItemChanged, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = HandleArbiterItemChanged 	
+00000123	0.02872777	[6880] [INFO] EventBroker - EventId = ArbiterItemChanged, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = HandleArbiterItemChanged 	
+00000124	0.02874347	[6880] [INFO] EventBroker - EventBroker: subscribed ArbiterItemChanged 	
+00000125	0.02877486	[6880] [INFO] EventBroker - Enqueued: EventId = MainInit, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.Init 	
+00000126	0.02879750	[6880] [INFO] EventBroker - EventId = MainInit, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.Init 	
+00000127	0.02882799	[6880] [INFO] EventBroker - Enqueued: EventId = ArbiterEndAllItemsEdit, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.OnReloadPlant 	
+00000128	0.02885425	[6880] [INFO] EventBroker - EventId = ArbiterEndAllItemsEdit, Type = Orygin.BusinessLogic.Managers.StorageManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.OnReloadPlant 	
+00000129	0.02886904	[6880] [INFO] EventBroker - EventBroker: subscribed ArbiterEndAllItemsEdit 	
+00000130	0.02901454	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.SnapGridManager, Method = Init 	
+00000131	0.02903748	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.SnapGridManager, Method = Init 	
+00000132	0.02917271	[6880] [INFO] EventBroker - Enqueued: EventId = GuiEventSelectAll, Type = Orygin.BusinessLogic.Managers.SelectionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISelectionManager.SelectAllControls 	
+00000133	0.02919535	[6880] [INFO] EventBroker - EventId = GuiEventSelectAll, Type = Orygin.BusinessLogic.Managers.SelectionManager, Method = Orygin.BusinessLogic.Managers.Interfaces.ISelectionManager.SelectAllControls 	
+00000134	0.02921044	[6880] [INFO] EventBroker - EventBroker: subscribed GuiEventSelectAll 	
+00000135	0.02971817	[6880] [INFO] EventBroker - Enqueued: EventId = MainInit, Type = Orygin.BusinessLogic.Managers.AppArgManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IAppArgManager.Init 	
+00000136	0.02974020	[6880] [INFO] EventBroker - EventId = MainInit, Type = Orygin.BusinessLogic.Managers.AppArgManager, Method = Orygin.BusinessLogic.Managers.Interfaces.IAppArgManager.Init 	
+00000137	0.03167903	[6880] [INFO] EventBroker - Enqueued: EventId = MainStart, Type = Orygin.BusinessLogic.Managers.InventoryOperations.InventoryTaskNotifier, Method = Orygin.BusinessLogic.Managers.Interfaces.IInventoryTaskNotifier.Restart 	
+00000138	0.03171133	[6880] [INFO] EventBroker - EventId = MainStart, Type = Orygin.BusinessLogic.Managers.InventoryOperations.InventoryTaskNotifier, Method = Orygin.BusinessLogic.Managers.Interfaces.IInventoryTaskNotifier.Restart 	
+00000139	0.03256740	[6880] [INFO] EventBroker - Enqueued: EventId = LocationRefused, Type = Orygin.BusinessLogic.Managers.InventoryOperations.LocationRefusedAlertGenerator, Method = GenerateAlert 	
+00000140	0.03258581	[6880] [INFO] EventBroker - EventId = LocationRefused, Type = Orygin.BusinessLogic.Managers.InventoryOperations.LocationRefusedAlertGenerator, Method = GenerateAlert 	
+00000141	0.03260091	[6880] [INFO] EventBroker - EventBroker: subscribed LocationRefused 	
+00000142	0.03268030	[6880] [INFO] EventBroker - Enqueued: EventId = RestartChanged, Type = Orygin.BusinessLogic.Managers.RestartChangedManager, Method = HandleRestartChanged 	
+00000143	0.03270293	[6880] [INFO] EventBroker - EventId = RestartChanged, Type = Orygin.BusinessLogic.Managers.RestartChangedManager, Method = HandleRestartChanged 	
+00000144	0.03271742	[6880] [INFO] EventBroker - EventBroker: subscribed RestartChanged 	
+00000145	0.03276391	[6880] [INFO] EventBroker - EventId = StatusChanged, Type = Orygin.BusinessLogic.Managers.StatusManager, Method = HandleStatusChanged 	
+00000146	0.03277991	[6880] [INFO] EventBroker - EventBroker: subscribed StatusChanged 	
+00000147	0.03283786	[6880] [INFO] EventBroker - Enqueued: EventId = StatusChanged, Type = Orygin.BusinessLogic.Managers.StatusManager, Method = HandleStatusChanged 	
+00000148	0.03292329	[6880] [INFO] EventBroker - Enqueued: EventId = Cleanup, Type = Orygin.BusinessLogic.Managers.CleanupManager, Method = Cleanup 	
+00000149	0.03294593	[6880] [INFO] EventBroker - EventId = Cleanup, Type = Orygin.BusinessLogic.Managers.CleanupManager, Method = Cleanup 	
+00000150	0.03301234	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.UnhandledExceptionManager, Method = HandlePlantLoaded 	
+00000151	0.03303347	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.UnhandledExceptionManager, Method = HandlePlantLoaded 	
+00000152	0.03360398	[6880] [INFO] EventBroker - Enqueued: EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.PlantLoadHelper, Method = PlantLoadedHandler 	
+00000153	0.03362511	[6880] [INFO] EventBroker - EventId = PlantLoaded, Type = Orygin.BusinessLogic.Managers.PlantLoadHelper, Method = PlantLoadedHandler 	
+00000154	0.03371295	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.HistoryVisibilityManager, Method = SetHistoryVisibility 	
+00000155	0.03373982	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Managers.HistoryVisibilityManager, Method = SetHistoryVisibility 	
+00000156	0.03382826	[6880] [INFO] BLLFactory - Total IoC initialization time - 41 ms 	
+00000157	0.14934096	[6880] [INFO] EventBroker - Enqueued: EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Controllers.MainController, Method = UpdateByPlantModeChanged 	
+00000158	0.14956191	[6880] [INFO] EventBroker - EventId = PlantModeChanged, Type = Orygin.BusinessLogic.Controllers.MainController, Method = UpdateByPlantModeChanged 	
+00000159	0.36860538	[6880] [INFO] RepositoryManager - Repository Mode changed to: Ordb 	
+00000160	0.37801880	[6880] [INFO] EntityStorageManager.Init(448) - Begin 	
+00000161	1.13668525	[6880] Trying to load native SQLite library "D:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Output\Debug\x64\SQLite.Interop.dll"... 	
+00000162	1.78974390	[6880] [INFO] EntityStorageManager.<LoadPluginMappings>b__2f(234) - Plugins mapping count: 1 	
+00000163	1.78989124	[6880] [INFO] EntityStorageManager.Init(451) - End 	
+00000164	1.79835498	[6880] [ERROR] EntityStorageConfiguration.WrappedCall(62) - Could not compile the mapping document: (string) 	
+00000165	1.81267476	[6880] Orygin 3.4.19.0: 1, 06:16:50.352 | Orygin.Plugin.Interfaces.EntityStorage.EntityStorageBaseException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. ---> System.TypeLoadException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. 	
+00000166	1.81267476	[6880]    at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type) 	
+00000167	1.81267476	[6880]    at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase) 	
+00000168	1.81267476	[6880]    at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError) 	
+00000169	1.81267476	[6880]    at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage) 	
+00000170	1.81267476	[6880]    --- End of inner exception stack trace --- 	
+00000171	1.81267476	[6880]    at Orygin.Repository.Exceptions.EntityStorageExceptionHelper.ProcessException(Exception ex) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Exceptions\EntityStorageExceptionHelper.cs:line 37 	
+00000172	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageBase.WrappedCall[T](Func`1 handler) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageBase.cs:line 72 	
+00000173	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageConfiguration.AddXmlString(String xmlString) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageConfiguration.cs:line 125 	
+00000174	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.LoadMappings(IEntityStorageConfigurationInternal cfg, IEnumerable`1 mappings) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 213 	
+00000175	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.GetPluginConfigInternal(Guid pluginId, Nullable`1 pluginSchemaVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 95 	
+00000176	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.InitPluginConfig(IOryginPlugin plugin, Int32 pluginSchemaVersion, IEnumerable`1 searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 153 	
+00000177	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.<>c__DisplayClass4a.<GetPluginConfig>b__45(Guid plg, Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 430 	
+00000178	1.81267476	[6880]    at Orygin.Repository.EntityStorage.Nh.PluginEntityStorageConfiguration.Init(Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\PluginEntityStorageConfiguration.cs:line 565 	
+00000179	1.81267476	[6880]    at Orygin.Repository.Repositories.Classes.RepositoryManager.ValidateDBVersion(Boolean forceInstall, Boolean forceInstallDemo, Boolean throwIfNotInstalled) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Repositories\Classes\RepositoryManager.cs:line 925 	
+00000180	1.81267476	[6880]    at Orygin.BusinessLogic.Managers.StorageManager.Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.Validating(Boolean silenceMode, Boolean pluginInstalling, String filePath, Boolean forceInstall, Boolean forceInstalDemo) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StorageManager.cs:line 796 	
+00000181	1.81267476	[6880]    at Orygin.BusinessLogic.Managers.StartupManager.Orygin.BusinessLogic.Managers.Interfaces.IStartupManager.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StartupManager.cs:line 55 	
+00000182	1.81267476	[6880]    at Orygin.BusinessLogic.Controllers.MainController.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Controllers\MainController.cs:line 237 	
+00000183	1.81267476	[6880]    at Orygin.Startup.App.StartViewAssembly(IBLLFactory bllFactory, ISettings settings, IViewFa	
+00000184	1.81276023	[6880] ctory viewFactory, Version oryginVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 174 	
+00000185	1.81276023	[6880]    at Orygin.Startup.App.StartBll(String exeFolderPath, IBLLFactory bllFactory) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 148 	
+00000186	1.81276023	[6880]    at Orygin.Startup.App.ApplicationStart(String exeFolderPath) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 60 	
+00000187	1.81276023	[6880]    at Orygin.Startup.App.StartApplication() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 119 	
+00000188	1.81276023	[6880]    at Orygin.Startup.App.Application_Startup(Object sender, StartupEventArgs e) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 240 	
+00000189	1.81276023	[6880]    at System.Windows.Application.<.ctor>b__1(Object unused) 	
+00000190	1.81276023	[6880]    at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs) 	
+00000191	1.81276023	[6880]    at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler) 	
+00000192	1.81763518	[6880] [ERROR] MainController - Orygin.Plugin.Interfaces.EntityStorage.EntityStorageBaseException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. ---> System.TypeLoadException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. 	
+00000193	1.81763518	[6880]    at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type) 	
+00000194	1.81763518	[6880]    at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase) 	
+00000195	1.81763518	[6880]    at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError) 	
+00000196	1.81763518	[6880]    at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage) 	
+00000197	1.81763518	[6880]    --- End of inner exception stack trace --- 	
+00000198	1.81763518	[6880]    at Orygin.Repository.Exceptions.EntityStorageExceptionHelper.ProcessException(Exception ex) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Exceptions\EntityStorageExceptionHelper.cs:line 37 	
+00000199	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageBase.WrappedCall[T](Func`1 handler) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageBase.cs:line 72 	
+00000200	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageConfiguration.AddXmlString(String xmlString) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageConfiguration.cs:line 125 	
+00000201	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.LoadMappings(IEntityStorageConfigurationInternal cfg, IEnumerable`1 mappings) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 213 	
+00000202	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.GetPluginConfigInternal(Guid pluginId, Nullable`1 pluginSchemaVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 95 	
+00000203	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.InitPluginConfig(IOryginPlugin plugin, Int32 pluginSchemaVersion, IEnumerable`1 searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 153 	
+00000204	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.<>c__DisplayClass4a.<GetPluginConfig>b__45(Guid plg, Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 430 	
+00000205	1.81763518	[6880]    at Orygin.Repository.EntityStorage.Nh.PluginEntityStorageConfiguration.Init(Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\PluginEntityStorageConfiguration.cs:line 565 	
+00000206	1.81763518	[6880]    at Orygin.Repository.Repositories.Classes.RepositoryManager.ValidateDBVersion(Boolean forceInstall, Boolean forceInstallDemo, Boolean throwIfNotInstalled) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Repositories\Classes\RepositoryManager.cs:line 925 	
+00000207	1.81763518	[6880]    at Orygin.BusinessLogic.Managers.StorageManager.Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.Validating(Boolean silenceMode, Boolean pluginInstalling, String filePath, Boolean forceInstall, Boolean forceInstalDemo) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StorageManager.cs:line 796 	
+00000208	1.81763518	[6880]    at Orygin.BusinessLogic.Managers.StartupManager.Orygin.BusinessLogic.Managers.Interfaces.IStartupManager.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StartupManager.cs:line 55 	
+00000209	1.81763518	[6880]    at Orygin.BusinessLogic.Controllers.MainController.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Controllers\MainController.cs:line 237 	
+00000210	1.81763518	[6880]    at Orygin.Startup.App.StartViewAssembly(IBLLFactory bllFactory, ISettings settings, IViewFactory view	
+00000211	1.81773484	[6880] Factory, Version oryginVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 174 	
+00000212	1.81773484	[6880]    at Orygin.Startup.App.StartBll(String exeFolderPath, IBLLFactory bllFactory) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 148 	
+00000213	1.81773484	[6880]    at Orygin.Startup.App.ApplicationStart(String exeFolderPath) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 60 	
+00000214	1.81773484	[6880]    at Orygin.Startup.App.StartApplication() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 119 	
+00000215	1.81773484	[6880]    at Orygin.Startup.App.Application_Startup(Object sender, StartupEventArgs e) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 240 	
+00000216	1.81773484	[6880]    at System.Windows.Application.<.ctor>b__1(Object unused) 	
+00000217	1.81773484	[6880]    at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs) 	
+00000218	1.81773484	[6880]    at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler) 	
+00000219	1.81896067	[6880] [ERROR] MainController - Exception (Object reference not set to an instance of an object.) while handling another one (Orygin.Plugin.Interfaces.EntityStorage.EntityStorageBaseException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. ---> System.TypeLoadException: Could not load type 'Orygin.Repository.Repositories.Structures.v1.PlantData' from assembly 'Orygin.Repository, Version=3.4.19.0, Culture=neutral, PublicKeyToken=null'. 	
+00000220	1.81896067	[6880]    at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type) 	
+00000221	1.81896067	[6880]    at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase) 	
+00000222	1.81896067	[6880]    at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError) 	
+00000223	1.81896067	[6880]    at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage) 	
+00000224	1.81896067	[6880]    --- End of inner exception stack trace --- 	
+00000225	1.81896067	[6880]    at Orygin.Repository.Exceptions.EntityStorageExceptionHelper.ProcessException(Exception ex) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Exceptions\EntityStorageExceptionHelper.cs:line 37 	
+00000226	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageBase.WrappedCall[T](Func`1 handler) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageBase.cs:line 72 	
+00000227	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageConfiguration.AddXmlString(String xmlString) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageConfiguration.cs:line 125 	
+00000228	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.LoadMappings(IEntityStorageConfigurationInternal cfg, IEnumerable`1 mappings) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 213 	
+00000229	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.GetPluginConfigInternal(Guid pluginId, Nullable`1 pluginSchemaVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 95 	
+00000230	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.InitPluginConfig(IOryginPlugin plugin, Int32 pluginSchemaVersion, IEnumerable`1 searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 153 	
+00000231	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.EntityStorageManager.<>c__DisplayClass4a.<GetPluginConfig>b__45(Guid plg, Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\EntityStorageManager.cs:line 430 	
+00000232	1.81896067	[6880]    at Orygin.Repository.EntityStorage.Nh.PluginEntityStorageConfiguration.Init(Int32 pluginSchemaVersion, Assembly[] searchInAssemblies) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\EntityStorage\Nh\PluginEntityStorageConfiguration.cs:line 565 	
+00000233	1.81896067	[6880]    at Orygin.Repository.Repositories.Classes.RepositoryManager.ValidateDBVersion(Boolean forceInstall, Boolean forceInstallDemo, Boolean throwIfNotInstalled) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Repository\Repositories\Classes\RepositoryManager.cs:line 925 	
+00000234	1.81896067	[6880]    at Orygin.BusinessLogic.Managers.StorageManager.Orygin.BusinessLogic.Managers.Interfaces.IStorageManager.Validating(Boolean silenceMode, Boolean pluginInstalling, String filePath, Boolean forceInstall, Boolean forceInstalDemo) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StorageManager.cs:line 796 	
+00000235	1.81896067	[6880]    at Orygin.BusinessLogic.Managers.StartupManager.Orygin.BusinessLogic.Managers.Interfaces.IStartupManager.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Managers\StartupManager.cs:line 55 	
+00000236	1.81896067	[6880]    at Orygin.BusinessLogic.Controllers.MainController.Start() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.BusinessLogic\Controllers\MainController.cs:line 237 	
+00000237	1.81896067	[6880]    at Oryg	
+00000238	1.81904793	[6880] in.Startup.App.StartViewAssembly(IBLLFactory bllFactory, ISettings settings, IViewFactory viewFactory, Version oryginVersion) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 174 	
+00000239	1.81904793	[6880]    at Orygin.Startup.App.StartBll(String exeFolderPath, IBLLFactory bllFactory) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 148 	
+00000240	1.81904793	[6880]    at Orygin.Startup.App.ApplicationStart(String exeFolderPath) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 60 	
+00000241	1.81904793	[6880]    at Orygin.Startup.App.StartApplication() in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 119 	
+00000242	1.81904793	[6880]    at Orygin.Startup.App.Application_Startup(Object sender, StartupEventArgs e) in d:\C#Work\orygin\Orygin.ControlPanel.Warehouse\Orygin.Startup\App.xaml.cs:line 240 	
+00000243	1.81904793	[6880]    at System.Windows.Application.<.ctor>b__1(Object unused) 	
+00000244	1.81904793	[6880]    at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs) 	
+00000245	1.81904793	[6880]    at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)). 	
+00000246	1.88010097	[6880] [INFO] GlobalMessageManager.Stop(456) - Begin 	
+00000247	1.88043964	[6880] [INFO] GlobalMessageManager.Stop(481) - End 	
+00000248	11.77929306	[5728] LOG_SYSTEM: [GoogleUpdate:goopdate]: ERROR - Cannot create ETW log writer	
