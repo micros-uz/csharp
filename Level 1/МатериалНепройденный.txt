@@ -1,0 +1,7 @@
+1) Partial methods and classes
+2) Stucts http://msdn.microsoft.com/en-us/library/ms173109.aspx
+http://geekswithblogs.net/BlackRabbitCoder/archive/2010/07/29/c-fundamentals-the-differences-between-struct-and-class.aspx
+http://geekswithblogs.net/BlackRabbitCoder/archive/2010/07/29/c-fundamentals-the-differences-between-struct-and-class.aspx
+
+3) ref keyword
+4) covariance and contrvariance http://habrahabr.ru/post/43938/
