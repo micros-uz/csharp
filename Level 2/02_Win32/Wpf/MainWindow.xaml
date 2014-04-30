@@ -1,0 +1,12 @@
+﻿<Window x:Class="Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="132,108,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="132,204,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="292,54,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <ListBox HorizontalAlignment="Left" Height="100" Margin="265,168,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
