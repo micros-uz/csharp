@@ -1,0 +1,143 @@
+﻿<Window x:Class="Inspector.GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Width="800"
+        Height="450"
+        Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.Row="0"
+              Grid.ColumnSpan="3"
+              Background="Transparent">
+
+            <MenuItem Header="File">
+                <MenuItem Header="Open" />
+                <MenuItem Header="Save" />
+                <MenuItem Header="Save As..." />
+                <MenuItem Header="Exit" />
+            </MenuItem>
+            <MenuItem Header="Help">
+                <MenuItem Click="AboutItem_Click"
+                          Header="About" />
+            </MenuItem>
+        </Menu>
+
+        <ToolBarTray Grid.Row="1"
+                     Grid.ColumnSpan="3">
+
+            <ToolBar>
+                <Button Content="Exit" />
+                <Button Content="Exit" />
+                <Button Content="Exit" />
+            </ToolBar>
+            <ToolBar>
+                <ComboBox x:Name="AreaComboBox"
+                          Width="150"
+                          Margin="0, 0, 5, 0"
+                          FontFamily="Lucida Console"
+                          IsEditable="True"
+                          SelectionChanged="AreaComboBox_SelectionChanged" />
+                <ComboBox x:Name="OKPOComboBox"
+                          Width="150"
+                          FontFamily="Lucida Console"
+                          IsEditable="True" />
+            </ToolBar>
+        </ToolBarTray>
+
+        <TreeView x:Name="MainTreeView"
+                  Grid.Row="2"
+                  Grid.Column="0"
+                  BorderThickness="0" />
+
+        <GridSplitter Grid.Row="2"
+                      Grid.Column="1"
+                      Width="4"
+                      Background="#FFBCBCBC"
+                      ResizeBehavior="PreviousAndNext"
+                      ResizeDirection="Columns"
+                      Visibility="Visible" />
+
+        <Grid Grid.Row="2"
+              Grid.Column="2"
+              Background="Bisque">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Row="0"
+                       Content="Product Volume" />
+                <TextBox x:Name="ProductVolumeTextBox"
+                         Grid.Row="0"
+                         Grid.Column="1" />
+                
+                <Label Grid.Row="1"
+                       Content="Revenue" />
+                <TextBox x:Name="RevenueTextBox"
+                         Grid.Row="1"
+                         Grid.Column="1" />
+                
+                <Label Grid.Row="2"
+                       Content="Profit" />
+                <TextBox x:Name="ProfitTextBox"
+                         Grid.Row="2"
+                         Grid.Column="1" />
+
+                <Label Grid.Row="0"
+                       Grid.Column="2"
+                       Content="Start Date" />
+                <DatePicker Grid.Row="0"
+                            x:Name="StartDatePicker"
+                            Grid.Column="3" />
+
+                <Label Grid.Row="1"
+                       Grid.Column="2"
+                       Content="End Date" />
+                <DatePicker Grid.Row="1"
+                            x:Name="EndDatePicker"
+                            Grid.Column="3" />
+
+                <Button Grid.Row="4"
+                        Grid.Column="2"
+                        Click="DeleteButton_Click"
+                        Content="Delete" />
+                <Button Grid.Row="4"
+                        Grid.Column="3"
+                        Content="Save" />
+            </Grid>
+
+            <DataGrid Grid.Row="1"
+                      x:Name="FinIndexDataGrid"
+                      AutoGenerateColumns="True" />
+
+        </Grid>
+
+    </Grid>
+</Window>
